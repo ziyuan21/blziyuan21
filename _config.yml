@@ -101,4 +101,6 @@ theme: stellar
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/ziyuan21/blziyuan21.git
+  branch: gh-pages
