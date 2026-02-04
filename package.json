@@ -27,6 +27,6 @@
     "hexo-server": "^3.0.0",
     "hexo-theme-landscape": "^1.0.0",
     "probe-image-size": "^7.2.3",
-    "turndown": "^7.2.0"
+    "turndown": "^7.2.2"
   }
 }
